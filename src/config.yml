@@ -1,0 +1,21 @@
+prefix: "&6&lWithdraw&e&lExp &8»"
+messages:
+  help:
+    - "&8&l========[&6&lWithdraw&e&lExp&8&l]========"
+    - "&6/exp &ehelp &7- Displays this message."
+    - "&6/exp &ewithdraw <lvls> &7- Withdraw an amount of Experience Levels."
+    - "&6/exp &egive <player> <lvls> &7- Give a Player an Experience Bottle. &c&o(Console Only)"
+    - "&8&l========[&6&lWithdraw&e&lExp&8&l]========"
+  not-a-number: "&7The given amount is not a number."
+  not-a-player: "&7Specified player does not exist or is not online."
+  not-enough-exp: "&7You do not have enough Experience to withdraw this amount."
+  not-server: "&7Only the Console can use this command."
+  exp-redeem: "&7You have redeemed &e%LEVELS% &7levels."
+  exp-withdraw: "&7You withdrew &e%LEVELS% &7levels."
+  exp-from-server: "&7You received an Experience Bottle of &e%LEVELS% &7levels from the server."
+
+expitem:
+  name: "&6&lWithdraw&e&lExp &8» &7(Right-Click)"
+  lore:
+    - "&eLevels: &7%LEVELS%"
+    - "&eCreated By: &7%CREATOR%"

@@ -1,0 +1,9 @@
+name: WithdrawExp
+version: 1.0.0
+api-version: 1.13
+author: Yorick#1907
+description: Let players withdraw their Exp!
+main: me.yorick.withdrawexp.Main
+commands:
+  withdrawexp:
+    aliases: [exp, xp]

@@ -1,0 +1,9 @@
+name: NameTags
+version: 1.0.0
+api-version: 1.13
+author: Yorick#1907
+description: Let players use custom tags before there name
+main: me.yorick.nametags.Main
+commands:
+  tags:
+    aliases: [tag]

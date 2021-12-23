@@ -1,0 +1,29 @@
+prefix: "&6&lName&e&lTags &8» "
+chat-delimiter: "&6&l>"
+chat-color: "&7"
+player-color: "&7"
+messages:
+  reload: "&aThe plugin has been successfully reloaded!"
+  error: "&cOops, something went wrong!"
+  select-tag: "&7You have selected {tag} &7as your new tag!"
+  clear-tag: "&7You are not longer using a tag!"
+  no-perm: "&cYou do not have the right permission to use this tag!"
+
+help:
+  title: "&8&l&m========[&6&lName&e&lTags&8&l]&m========"
+  menu: "&8» &e/tags &6| &7Opens the tag menu"
+  clear: "&8» &e/tags clear &6| &7Clears your current tag"
+  help: "&8» &e/tags help &6| &7Show this message"
+  reload: "&8» &e/tags reload &6| &7Reloads the configuration file"
+
+menu:
+  title: "&6&lName&e&lTags"
+  tag-item: NAME_TAG
+  glass-type-one: ORANGE_STAINED_GLASS_PANE
+  glass-type-two: YELLOW_STAINED_GLASS_PANE
+  empty-slot: GRAY_STAINED_GLASS_PANE
+  close-btn:
+    item: NETHER_STAR
+    name: "&c&lClose Menu"
+    lore:
+      - "&7Click to close this menu"

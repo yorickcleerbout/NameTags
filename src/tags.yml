@@ -1,0 +1,24 @@
+#####################################################
+## ONLY 18 TAGS WILL BE WORKING IN THIS VERSION    ##
+## YOU CAN CREATE MORE TAGS USING THE FORMAT BELOW ##
+#####################################################
+tags:
+  0:
+    display: "&8[&dBeast&8]"
+    lore:
+      - "&7Click to use this tag."
+      - "&7Permission: {bool}"
+    permission: "nametags.beast"
+  1:
+    display: "&8[&bHero&8]"
+    lore:
+      - "&7Click to use this tag."
+      - "&7Permission: {bool}"
+    permission: "nametags.hero"
+  2:
+    display: "&8[&aPvPGod&8]"
+    lore:
+      - "&7Click to use this tag."
+      - "&7Permission: {bool}"
+    permission: "nametags.pvpgod"
+

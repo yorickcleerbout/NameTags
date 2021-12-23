@@ -6,6 +6,10 @@
 * Add custom permission for each NameTag.
 * Fully customizable messages and prefix.
 
+# Requirements:
+
+* **Vault:** The Vault plugin is required to be able to get players prefix.
+
 # Supported Server Versions:
 
 NameTags supports for now only 1.17 versions of Bukkit / Spigot.
